@@ -1,0 +1,22 @@
+[
+    {
+        "lat": 17.385044,
+        "lon": 78.486671,
+        "address": "Hyderabad, Telangana"
+    },
+    {
+        "lat": 12.971599,
+        "lon": 77.594563,
+        "address": "Bangalore, Karnataka"
+    },
+    {
+        "lat": 19.075983,
+        "lon": 72.877655,
+        "address": "Mumbai, Maharashtra"
+    },
+    {
+        "lat": 28.613939,
+        "lon": 77.209021,
+        "address": "Delhi, India"
+    }
+]

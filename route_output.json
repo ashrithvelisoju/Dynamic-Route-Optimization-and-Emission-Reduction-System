@@ -1,0 +1,68 @@
+[
+  {
+    "total_distance": 597.274,
+    "total_duration": 875.9333333333333,
+    "total_emissions": 591.3012600000001,
+    "segments": [
+      {
+        "start": {
+          "lat": 17.385044,
+          "lon": 78.486671,
+          "address": "Hyderabad, Telangana"
+        },
+        "end": {
+          "lat": 12.971599,
+          "lon": 77.594563,
+          "address": "Bangalore, Karnataka"
+        },
+        "distance": 597.274,
+        "duration": 875.9333333333333,
+        "emissions": 591.3012600000001
+      }
+    ]
+  },
+  {
+    "total_distance": 978.198,
+    "total_duration": 1419.3666666666666,
+    "total_emissions": 968.4160200000001,
+    "segments": [
+      {
+        "start": {
+          "lat": 12.971599,
+          "lon": 77.594563,
+          "address": "Bangalore, Karnataka"
+        },
+        "end": {
+          "lat": 19.075983,
+          "lon": 72.877655,
+          "address": "Mumbai, Maharashtra"
+        },
+        "distance": 978.198,
+        "duration": 1419.3666666666666,
+        "emissions": 968.4160200000001
+      }
+    ]
+  },
+  {
+    "total_distance": 1533.545,
+    "total_duration": 1886.8333333333333,
+    "total_emissions": 1518.2095500000003,
+    "segments": [
+      {
+        "start": {
+          "lat": 19.075983,
+          "lon": 72.877655,
+          "address": "Mumbai, Maharashtra"
+        },
+        "end": {
+          "lat": 28.613939,
+          "lon": 77.209021,
+          "address": "Delhi, India"
+        },
+        "distance": 1533.545,
+        "duration": 1886.8333333333333,
+        "emissions": 1518.2095500000003
+      }
+    ]
+  }
+]

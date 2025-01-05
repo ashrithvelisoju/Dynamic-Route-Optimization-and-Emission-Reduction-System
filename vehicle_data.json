@@ -1,0 +1,8 @@
+{
+    "id": "truck123",
+    "type": "heavy_duty",
+    "fuel_type": "diesel",
+    "fuel_efficiency": 3.5,
+    "cargo_capacity": 10000,
+    "current_load": 5000
+}
